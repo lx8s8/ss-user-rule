@@ -1,0 +1,5 @@
+*.*
+
+gui-config.json
+!.gitignore
+!user-rule.txt
