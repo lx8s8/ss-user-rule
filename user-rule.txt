@@ -1,6 +1,15 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 
+www.imagemagick.org/
+gsview.com/
+www.ghostscript.com/
+www.antoniosiber.org/
+www.cs.csustan.edu/
+datacatalog.worldbank.org/
+openframeworks.cc/
+wiki.contextgarden.net/
+stackoverflow.com/
 gmt.soest.hawaii.edu
 docs.juliaplots.org
 itch.io
@@ -21,7 +30,7 @@ leetcode.com/
 ||googleads.g.doubleclick.net/
 ||connect.facebook.net/
 ||bl.ocks.org/
-||processing.org/
+processing.org/
 ||p5js.org
 ||www.mathworks.com/
 ||inkscape.org/
@@ -103,7 +112,6 @@ python.org
 ||twitter.com 
 github.io
 |https://www.w3schools.com/ 
-.stackexchange.com 
 |https://www.coursera.org 
 ||ip.cn 
 |https://www.khanacademy.org 
